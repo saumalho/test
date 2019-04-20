@@ -3,9 +3,10 @@ import sys
 import glob
 
 def main():
-    print ("My name is Saurabh")
+    print ("Python script")
 
-if __name__ == "__main__"
-    def main()
+
+if __name__ == "__main__":
+    main()
 
 
